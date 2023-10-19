@@ -1,0 +1,99 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    /* position: absolute; */
+    background-color: #346093;
+    position: static;
+}
+.headleftSides{
+    color: white;
+    padding-left: 8%;
+    display: flex;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.htel{
+    margin-right: .5%;
+}
+
+.hmail{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.headRightSides{
+    display: inline;
+    position: absolute;
+    left: 1330px;
+    top: 20px;
+}
+.navBar{
+    background-color: #3a75af;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    display: flex;
+}
+.nLeftside{
+    padding-left: 8%;
+}
+.nMiddleArea{
+    padding-left: 25%;
+    padding-top: 1%; 
+    padding-bottom: 1%;
+}
+.nRightside{
+    padding-left: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.btn_login {
+    height: 25px;
+    width: 110px;
+    border: none;
+    margin-right: 5px;
+}
+.anhor_btn{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+.content_main{
+    color: #85827d;
+}
+.content_section_one{
+    padding-top: 5%;
+    text-align: center;
+}
+.content_section_two{
+    padding-top: 2.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 2.5%;
+    /* padding-right: 5%; */
+    display: flex;
+}
+.sub_section{
+    padding-right: 5%;
+}
+.sub_section_para{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 10%;
+}
+.footer {
+    background-color: #494d4b;
+    text-align: center;
+    height: auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.footcon {
+    color: white;
+    margin-top: 1%;
+}
+
+.footp {
+    color: #abb3b0;
+}
