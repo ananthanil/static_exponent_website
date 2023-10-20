@@ -89,6 +89,7 @@
     padding-top: 3%;
     padding-bottom: 3%;
     padding-left: 10%;
+    font-size: 15px;
 }
 .footer {
     background-color: #494d4b;
@@ -96,6 +97,7 @@
     height: auto;
     padding-top: 1%;
     padding-bottom: 1%;
+    width: auto;
 }
 .footcon {
     color: white;
