@@ -90,6 +90,12 @@
     padding-bottom: 3%;
     padding-left: 10%;
     font-size: 15px;
+    
+}
+.section_one_para_about{
+    padding: 25px;
+    text-align: left;
+    font-size: 18px;
 }
 .footer {
     background-color: #494d4b;
